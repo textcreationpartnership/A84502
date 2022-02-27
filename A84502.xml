@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The E. of Shaftsbury's expedient for setling the nation Discoursed with His Majesty in the House of Peers at Oxford, Mar. 24th, 1680/1.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84502</idno>
+            <idno type="STC">Wing E80C</idno>
+            <idno type="STC">ESTC R13089</idno>
+            <idno type="EEBO-CITATION">99897341</idno>
+            <idno type="PROQUEST">99897341</idno>
+            <idno type="VID">61889</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84502)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 61889)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 297:13 and 1776:7 or 2496:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The E. of Shaftsbury's expedient for setling the nation Discoursed with His Majesty in the House of Peers at Oxford, Mar. 24th, 1680/1.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold by Langley Curtis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satiric account of Shaftesbury's proposal to King Charles II to settle the crown on the Duke of Monmouth.</note>
+                  <note>Item at reel 297:13 identified as Wing S2891A (number cancelled).</note>
+                  <note>Item at reel 1776:7 identified as Wing E45A ("no entry" in Wing 2nd ed., rev.).</note>
+                  <note>Item at reel 1776:7 imperfect: t.p. torn with partial loss of title and entire imprint.</note>
+                  <note>Reproduction of originals at the University of Illinois (Urbana-Champaign Campus). Library, Henry E. Huntington Library and Art Gallery, and Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monmouth, James Scott, --  Duke of, 1649-1685 --  Early works to 1800.</term>
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:61889:1" rendition="simple:additions"/>
+            <p>THE E. of Shaftsbury's EXPEDIENT For Setling the NATION.</p>
+            <p>Diſcourſed with His MAJESTY in the Houſe of Peers, At <hi>OXFORD, Mar.</hi> 24th. 1680 / 1.</p>
+            <p>
+               <hi>LONDON:</hi> Printed, and are to be Sold by <hi>Langley Curtis,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:61889:2"/>
+            <pb n="3" facs="tcp:61889:2" rendition="simple:additions"/>
+            <head>THE Earl of Shaftsbury's EXPEDIENT For Setling the NATION. Diſcourſed with His MAJESTY In the Houſe of PEERS at <hi>Oxford, M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</hi> the <hi>24th.</hi> 1680/1.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE 24th. of <hi>March,</hi> the great Patriot, and next under God and Dr. <hi>Oates,</hi> the ſu<g ref="char:EOLhyphen"/>preme Saviour and De<g ref="char:EOLhyphen"/>fender of the Nation, the Earl of <hi>Shafts<g ref="char:EOLhyphen"/>bury</hi> receiv'd, or pre<g ref="char:EOLhyphen"/>tended that he receiv'd a Letter written in
+<pb n="4" facs="tcp:61889:3"/> an unknown Hand<g ref="char:punc">▪</g> containing<g ref="char:punc">▪</g> an Expedi<g ref="char:EOLhyphen"/>ent for the ſetling and<g ref="char:punc">▪</g> compoſing the Dif<g ref="char:EOLhyphen"/>ferences between the <hi>King</hi> and <hi>Parliament.</hi> With this he made a great noiſe, and buſt<g ref="char:EOLhyphen"/>ling about as faſt as his leggs, and man, and ſtick, could carry him. It was ask'd the Duke of <hi>Monmouth,</hi> by my Lord Chamber<g ref="char:EOLhyphen"/>lain, (that ſuppos'd that his Grace might be privy to this grand Affair) what the great Concern was: His Grace<g ref="char:punc">▪</g> (with ſome ſhew of modeſty and ſelf-denial) made anſwer, that it was ſomewhat concerning himſelf, wherein that Lord was (as in many other things relating to his Grace) much more for<g ref="char:EOLhyphen"/>ward than he deſir'd he ſhould be.</p>
+            <p>The little Lord very buſy, and deſirous to ſpeak with the <hi>King,</hi> was told by the Earl of <hi>Feverſham,</hi> that he heard he had ſome buſineſs of great Importance to communicate to the <hi>King,</hi> and that therefore if he pleas'd, he would conduct him to His Majeſty. The bu<g ref="char:EOLhyphen"/>ſie Earl told him, he was willing to be con<g ref="char:EOLhyphen"/>ducted by ſo honeſt a man as his Lordſhip, drolling and thinking himſelf guilty of a very ſhrewd Irony.</p>
+            <pb n="5" facs="tcp:61889:3"/>
+            <p>Well, he is brought to the <hi>King,</hi> and there broach'd. The Letter of Expedients is produc'd; and what do you think was this grand Secret of ſecuring our Peace and Re<g ref="char:EOLhyphen"/>ligion, but a Propoſal for the ſettling the Crown on the Duke of <hi>Monmouth?</hi> The <hi>K.</hi> ſurpriz'd, told the Earl, that he wonder'd that after ſo many Declarations to the contrary, he ſhould preſs him upon that Subject, that if either with Conſcience, or Juſtice, or Na<g ref="char:EOLhyphen"/>ture, he could do ſuch a thing, he would have done it before; it being reaſonable, that if he had had ever a Child of his own Legitimate, he would much rather have him reign, than his Brother, or any of his Brothers Children: That his Majeſty was none of thoſe that grew more timorous with age, but that rather he grew the more reſolute the nearer he was to his grave.</p>
+            <p>At that word the Loyal Earl was mightily concern'd, and cry'd out that it chill'd his blood to hear of ſuch an expreſſion; Telling the <hi>King</hi> how earneſt the whole Nation was for His Preſervation: that in Him were Com<g ref="char:EOLhyphen"/>priz'd all their Safeties, Lives, Liberties; and Religion, and their All.</p>
+            <pb n="6" facs="tcp:61889:4"/>
+            <p>Yes, anſwered his Majeſty, and yet, my Lord, I am the only Arbitrary man in the Kingdom: But aſſure your Selves I intend to take a greater care of my Own Preſervation, and in that of my Peoples, than any of You all that pretend to ſo much concern for the Security of my Perſon<g ref="char:punc">▪</g> And yet as careful as I am of my Own Preſervation: Yet I would much ſooner loſe this Life, of which you pretend to be ſo watchful Preſervers, than ever part with any of my Prerogative, or betray this Place, the Laws, or the Religion, or alter the true Succeſſion of the Crown, it being repugnant both to Conſcience and Law.</p>
+            <p>For that matter, reply'd the Earl, let us alone, we will make a Law for it.</p>
+            <p>But the <hi>K.</hi> told him, my Lord, if this is your Conſcience, it is far from being mine: For this cannot be done without overthrow<g ref="char:EOLhyphen"/>ing all Religion, and all Law.</p>
+            <p>And in fine, aſſure your ſelves, that as I love my Life ſo well, as to take all the care in the world to keep it with Honor, ſo I don't think it of ſo great Value neither, after Fifty, as to be preſerv'd with the forfeiture
+<pb n="7" facs="tcp:61889:4"/> of my Honor, Conſcience, and the Laws of the Land.</p>
+            <p>And much more to this purpoſe did his Majeſty ſay upon this occaſion; all ſo full of Reaſon, Equity and Juſtice, and with ſo much Reſolution and Courage, as gave the greateſt aſſurance and encouragement to all the Loyal Lords in the Houſe, and all ho<g ref="char:EOLhyphen"/>neſt Subjects that could be; but to the Fa<g ref="char:EOLhyphen"/>ctious, the greateſt Confuſion imaginable.</p>
+            <closer>
+               <dateline>
+                  <date>This was done yeſterday in the Houſe of Lords.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
